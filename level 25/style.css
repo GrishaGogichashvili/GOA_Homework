@@ -1,0 +1,53 @@
+h1 {
+  text-align: center;
+  color: rgb(0, 255, 255);
+  font-family: sans-serif;
+}
+
+#myp {
+  text-align: center;
+  font-size: xx-large;
+  color: rgb(107, 211, 211);
+}
+
+.typ {
+  text-align: center;
+  font-size: x-large;
+  color: rgb(98, 223, 216);
+}
+
+.oyp {
+  text-align: center;
+  font-size: larger;
+  color: rgb(109, 212, 204);
+}
+
+.wyp {
+  text-align: center;
+  font-size: large;
+  color: rgb(100, 190, 183);
+}
+
+.ayp {
+  text-align: center;
+  font-size: medium;
+  color: rgb(147, 201, 196);
+}
+
+.qyp {
+  text-align: center;
+  font-size: small;
+  color: rgb(151, 194, 190);
+}
+
+.zyp {
+  text-align: center;
+  font-size: smaller;
+  color: rgb(173, 206, 203);
+}
+
+.uyp {
+  text-align: center;
+  font-size: x-small;
+  color: rgb(255, 255, 255);
+}
